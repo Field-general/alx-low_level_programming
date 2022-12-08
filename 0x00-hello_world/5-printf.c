@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
- *with proper grammar 
- * but the outcome is a piece of art
+ * main - entry point
+ *
+ * description: using printf to print a line of code
+ *
+ * return: always 0 (success)
  */
 int main(void)
 {
